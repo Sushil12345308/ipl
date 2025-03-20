@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/Sushil12345308/ipl/blob/main/TJA-Featured-Image-1.jpg?raw=true)
 
-IPL Project README
+IPL Project
 
 🏏 Indian Premier League (IPL) Data Analysis & Prediction
 
@@ -61,10 +61,6 @@ Deploy the model using Flask or Streamlit for user interaction.
 🤝 Contributing
 
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
-
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 📞 Contact
 
