@@ -38,16 +38,6 @@ Database: SQLite / CSV files
 
 Visualization Tools: Plotly, Streamlit
 
-📌 Installation
-
-Clone this repository:
-
-Navigate to the project folder:
-
-Install dependencies:
-
-Run the application:
-
 📊 Usage
 
 Run the script to fetch and process IPL data.
