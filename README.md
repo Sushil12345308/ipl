@@ -70,8 +70,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any queries, reach out via:
 
-📧 Email: your.email@example.com
+📧 Email: sushil.kendre986@gmail.com
 
-🐦 Twitter: @yourhandle
+🐦 Contact: +919028491089
 
-📂 GitHub: yourusername
+📂 GitHub: https://github.com/Sushil12345308
