@@ -1,6 +1,5 @@
 ## ipl
 
-![image alt](https://github.com/Sushil12345308/ipl/blob/main/TJA-Featured-Image-1.jpg?raw=true)
 ![TJA-Featured-Image-1](https://github.com/user-attachments/assets/cee44388-7d45-4d37-bea9-66ec676b07be)
 
 
